@@ -31,10 +31,15 @@
 | Name          | Description   | Documentation | Download |
 | ------------- |:-------------:| -----:|-----:|
 | TeeGrid | Grid control for Delphi and C++ (VCL and FMX) | [GitHub](https://github.com/Steema/TeeGrid) | [Site](http://www.steebi.com/files/code/beta/vcl_fmx/teegrid/index.htm) |  
-### Other
+### Games
 | Name          | Description   | Documentation | Download |
 | ------------- |:-------------:| -----:|-----:|
 |SO Engine (ShadowEngine)|Delphi Firemonkey (FMX) Sprite Engine with Formatters, Animations, Collisions and etc.| - |[GitHub](https://github.com/dimsa/ShadowEngine)|
+
+### Other
+| Name          | Description   | Documentation | Download |
+| ------------- |:-------------:| -----:|-----:|
+|FMXNativeDraw Canvas Helper|Improved Firemonkey Canvas Geometric Drawing Quality (Mobile Platform)| [Site](http://www.cnblogs.com/onechen/p/6350096.html)| [GitHub](https://github.com/dimsa/ShadowEngine)|
 ## No Visual
 ### JSON/XML
 | Name          | Description   | Documentation | Download |
