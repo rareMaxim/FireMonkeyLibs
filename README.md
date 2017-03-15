@@ -41,6 +41,10 @@
 | ------------- |:-------------:| -----:|-----:|
 |FMXNativeDraw Canvas Helper|Improved Firemonkey Canvas Geometric Drawing Quality (Mobile Platform)| [Site](http://www.cnblogs.com/onechen/p/6350096.html)| [GitHub](https://github.com/dimsa/ShadowEngine)|
 ## No Visual
+### API 
+| Name          | Description   | Documentation | Download |
+| ------------- |:-------------:| -----:|-----:|
+|Telegram Bot API|Telega π - Библиотека для работы с Telegram Bot API в Delphi| [Site](https://t.me/telegaPiBotTest)| [GitHub](https://github.com/ms301/TelegAPI)|
 ### JSON/XML
 | Name          | Description   | Documentation | Download |
 | ------------- |:-------------:| -----:|-----:|
