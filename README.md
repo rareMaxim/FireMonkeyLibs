@@ -32,6 +32,10 @@
 | Name          | Description   | Documentation | Download |
 | ------------- |:-------------:| -----:|-----:|
 | TeeGrid | Grid control for Delphi and C++ (VCL and FMX) | [GitHub](https://github.com/Steema/TeeGrid) | [Site](http://www.steebi.com/files/code/beta/vcl_fmx/teegrid/index.htm) |  
+### Maps
+| Name          | Description   | Documentation | Download |
+| ------------- |:-------------:| -----:|-----:|
+| BaiduMap-Firemonkey | BaiduMap SDK Api for Delphi Firemonkey Andorid and iOS Baidu SDK API | - | [GitHub](https://github.com/xubzhlin/BaiduMap-Firemonkey) |  
 ### Games
 | Name          | Description   | Documentation | Download |
 | ------------- |:-------------:| -----:|-----:|
